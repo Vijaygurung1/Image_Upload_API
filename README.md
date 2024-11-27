@@ -1,9 +1,6 @@
 
 # Image Upload and Description Generation API
 
-Note :
-
-- To test this, I used "Postman", which allows me to upload images that are then saved in a designated folder.
 
 This project is a Flask-based API that allows users to upload images and receive multiple descriptions of the image in different tones using OpenAI's GPT models.
 
